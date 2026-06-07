@@ -60,39 +60,26 @@ Google Dorking uses advanced search operators to discover publicly exposed infor
 Examples:
 
 ```bash
-site:example.com
-site:example.com filetype:pdf
-site:example.com inurl:admin
-site:example.com ext:sql
+### Google Dorks
+
+Google Dorking uses advanced search operators to discover publicly exposed information.
+
+Examples:
+site:example.com              - Limit search results to the target domain.
+site:example.com filetype:pdf - Search for public PDF documents.
+site:example.com inurl:admin  - Find exposed admin/login portals.
+site:example.com ext:sql      - Look for exposed database backups or SQL files.
 ```
 
 Useful for:
 
 - Public documents
-- Login portals
+- Login pages
 - Backup files
 - Exposed directories
 
 ---
 
-## Certificate Transparency
-
-### crt.sh
-
-Certificate Transparency logs often reveal subdomains that may not be easily discovered through DNS enumeration.
-
-Useful for:
-
-- Subdomain discovery
-- Historical subdomains
-
-Example:
-
-```bash
-%.example.com
-```
-
----
 
 ## Search & Intelligence Platforms
 
@@ -237,7 +224,6 @@ Can reveal:
 
 Provides company information such as:
 
-- Funding
 - Acquisitions
 - Employees
 - Subsidiaries
@@ -272,35 +258,24 @@ https://www.zone-h.org/archive/special=1
 
 ---
 
-# Recommended OSINT Workflow
+# To know the records of a domain, we use dig and nslookup in the terminal
 
-```text
-Target Domain
-      │
-      ▼
-Google Dorking
-      │
-      ▼
-Whois Lookup
-      │
-      ▼
-Certificate Transparency
-      │
-      ▼
-Email Discovery
-      │
-      ▼
-Employee Enumeration
-      │
-      ▼
-Technology Fingerprinting
-      │
-      ▼
-Data Breach Search
-      │
-      ▼
-Attack Surface Mapping
-```
+# CNAME record (Canonical Name)
+dig google.com CNAME
+
+# MX record (Mail Exchange)
+dig github.com MX
+
+# Short output (clean result only)
+dig +short github.com
+
+# Alternative tool: nslookup examples
+
+# Query all available DNS information
+nslookup google.com
+
+# Query specific record type (example: MX)
+nslookup -type=MX github.com
 
 ---
 
