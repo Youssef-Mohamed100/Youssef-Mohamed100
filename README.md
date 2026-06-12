@@ -135,8 +135,7 @@ My main focus is building strong practical skills in ethical hacking, vulnerabil
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/youssef-mohamed-231b09320)
 
 [![Gmail](https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=elmasryyoussef100@gmail.com)
-[![Portfolio](https://youssef-mohamed100.github.io/)
-
+[Portfolio](https://youssef-mohamed100.github.io/)
 ---
 
 ## 📊 GitHub Stats
