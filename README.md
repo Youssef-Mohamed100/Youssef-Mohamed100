@@ -2,7 +2,7 @@
 
 ## 🧑‍💻 Introduction
 
-I'm a passionate Cybersecurity student from Egypt with hands-on experience in penetration testing, web application security, and network security through practical labs and real-world simulation environments. I enjoy solving security challenges, analyzing vulnerabilities, and continuously improving my offensive security skills through platforms like TryHackMe, Hack The Box, and PortSwigger Web Security Academy.
+I'm a passionate Cybersecurity student from Egypt with hands-on experience in penetration testing, web application security, network security and Active Directory Security through practical labs and real-world simulation environments. I enjoy solving security challenges, analyzing vulnerabilities, and continuously improving my offensive security skills through platforms like TryHackMe, Hack The Box, and PortSwigger Web Security Academy.
 
 My main focus is building strong practical skills in ethical hacking, vulnerability assessment, and security operations while preparing for a professional career in cybersecurity.
 
