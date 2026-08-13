@@ -12,8 +12,9 @@ My main focus is building strong practical skills in ethical hacking, vulnerabil
 
 - Web Application Penetration Testing  
 - Network Enumeration & Vulnerability Assessment  
-- Linux & Windows Privilege Escalation  
-- Capture The Flag (CTF) Challenges  
+- Linux & Windows Privilege Escalation
+- Active Directory Enumeration & Vulnerability Assessment 
+- Capture The Flag (CTF) Challenges 
 - Home Lab Virtualization & Security Testing  
 - Security Research & Technical Documentation  
 
