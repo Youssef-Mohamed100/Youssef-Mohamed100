@@ -212,10 +212,10 @@ Hands-on practice with Web Application Security vulnerabilities, including:
 
 I document my practical security research, lab walkthroughs, and penetration testing methodologies.
 
-- 📝 [TryHackMe Write-ups](#)
-- 📝 [Hack The Box Write-ups](#)
-- 📝 [Web Security Notes](#)
-- 📝 [Active Directory Notes](#)
+- 📝 [Windows Notes](https://github.com/Youssef-Mohamed100/Youssef-Mohamed100/tree/main/Windows%20Pentest)
+- 📝 [Linux Notes](https://github.com/Youssef-Mohamed100/Youssef-Mohamed100/tree/main/Linux%20Pentest)
+- 📝 [Web Security Notes](https://github.com/Youssef-Mohamed100/Youssef-Mohamed100/tree/main/Web%20Pentest)
+- 📝 [Active Directory Notes](https://github.com/Youssef-Mohamed100/Youssef-Mohamed100/tree/main/Active%20Directory%20Pentest)
 
 ---
 
