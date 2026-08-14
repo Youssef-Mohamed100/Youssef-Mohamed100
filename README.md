@@ -1,148 +1,236 @@
 # 👋 Hi, I'm Youssef Mohamed
 
-## 🧑‍💻 Introduction
+## 🧑‍💻 About Me
 
-I'm a passionate Cybersecurity student from Egypt with hands-on experience in penetration testing, web application security, network security and Active Directory Security through practical labs and real-world simulation environments. I enjoy solving security challenges, analyzing vulnerabilities, and continuously improving my offensive security skills through platforms like TryHackMe, Hack The Box, and PortSwigger Web Security Academy.
+I'm a Cybersecurity student from Egypt with hands-on experience in **Web Application Penetration Testing, Network Security, Active Directory, and Privilege Escalation** through practical labs, CTFs, home lab environments, and security training platforms.
 
-My main focus is building strong practical skills in ethical hacking, vulnerability assessment, and security operations while preparing for a professional career in cybersecurity.
+I focus on developing practical **offensive security and penetration testing** skills by identifying vulnerabilities, understanding attack paths, exploiting misconfigurations, and documenting my findings.
+
+My current goal is to build a strong professional career as a **Penetration Tester**, with a focus on Web, Network, and Active Directory security.
 
 ---
 
-## 🛡️ What I Do
+## 🛡️ Areas of Expertise
 
-- Web Application Penetration Testing  
-- Network Enumeration & Vulnerability Assessment  
+- Web Application Penetration Testing
+- Network Penetration Testing
+- Active Directory Security & Penetration Testing
+- Vulnerability Assessment & Enumeration
 - Linux & Windows Privilege Escalation
-- Active Directory Enumeration & Vulnerability Assessment 
-- Capture The Flag (CTF) Challenges 
-- Home Lab Virtualization & Security Testing  
-- Security Research & Technical Documentation  
+- Authentication & Access Control Testing
+- API Security Testing
+- CTF & Security Labs
+- Home Lab Development
+- Security Research & Technical Documentation
 
 ---
 
-## 💻 Skills
+## 💻 Technical Skills
 
 ### 🔐 Cybersecurity
-- Web Penetration Testing Fundamentals
+
+- Web Application Security
 - Network Penetration Testing
 - Vulnerability Assessment
-- Information Gathering & Enumeration
+- Information Gathering & Reconnaissance
+- Enumeration
 - OWASP Top 10
-- Active Directory Enumeration
-- Privilege Escalation Techniques
+- Active Directory Enumeration & Exploitation
+- Linux Privilege Escalation
+- Windows Privilege Escalation
+- Authentication & Access Control Testing
+- API Security Testing
 
 ### 🌐 Networking
-- TCP/IP, IPv4/IPv6
+
+- TCP/IP
+- IPv4 / IPv6
 - Routing & Switching Fundamentals
-- VLANs, STP, OSPF
+- VLANs
+- STP
+- OSPF
+- Network Enumeration
+- Network Traffic Analysis
 
 ### 🖥️ Operating Systems
+
+- Linux
+- Windows
 - Linux Command Line
-- Windows Fundamentals
-- Ubuntu Server Basics
+- Windows Command Line
+- Windows Internals Fundamentals
 
 ### ⚙️ Programming & Scripting
-- Python for Automation
-- Java Basics
-- Bash/Shell Scripting for Automation
+
+- Python
+- Bash / Shell Scripting
+- Java
 - HTML
 - PHP
 - JavaScript
-- SQL / Database	
-
+- SQL
 
 ### 🛠️ Security Tools
+
 - Nmap
-- Wireshark
 - Burp Suite
+- Wireshark
 - Metasploit
-- Gobuster
 - FFUF
-- Hydra
+- Gobuster
 - Nikto
+- Hydra
+- BloodHound
+- NetExec (NXC)
+- Impacket
+- John the Ripper
+- Hashcat
+- LinPEAS
+- WinPEAS
+- PowerView
+- Linux Exploit Suggester
 
 ---
 
 ## 🧪 Labs & Practical Experience
 
-### 🏠 Home Lab Environment
-- Built a professional isolated cybersecurity lab using:
-  - Metasploitable 2
-  - Metasploitable 3
-  - Ubuntu
-  - Windows Server
-- Practiced:
-  - Vulnerability Assessment
-  - Exploitation
-  - Privilege Escalation
-  - Network Traffic Analysis
+### 🏠 Home Lab
 
-### 🎯 TryHackMe
-- Completed 40+ hands-on cybersecurity rooms covering:
-  - Web Exploitation
-  - Linux & Windows Fundamentals
-  - Network Security
-  - Enumeration Techniques
-  - Privilege Escalation
+Built and maintained an isolated cybersecurity lab for practicing offensive security techniques and attack scenarios.
 
-### 🌐 PortSwigger Web Security Academy
-- Exploited multiple OWASP Top 10 vulnerabilities including:
-  - XSS
-  - SQL Injection
-  - CSRF
-  - Authentication Bypass
+**Environment:**
 
-### 🚩 Hack The Box
-- Solved beginner & intermediate machines involving:
-  - Enumeration
-  - Payload Delivery
-  - Linux Privilege Escalation
-  - Active Directory Basics
+- Kali Linux
+- Windows 10
+- Windows Server 2019
+- Metasploitable 2
+- Active Directory Domain Environment
+- VirtualBox
+
+**Practiced:**
+
+- Network Reconnaissance
+- Service Enumeration
+- Vulnerability Assessment
+- Web Application Testing
+- Exploitation
+- Linux Privilege Escalation
+- Windows Privilege Escalation
+- Active Directory Enumeration
+- Kerberos Attacks
+- Credential Attacks
+- Lateral Movement
+- Network Pivoting & Tunneling
+- Post-Exploitation
 
 ---
 
-## 🏅 Certifications & Courses
+## 🎯 TryHackMe
 
-- eJPTv2 (Certified Penetration Testing Student)
-- Microsoft SC-900
-- CCNA: Switching, Routing & Wireless Essentials
-- Network Technician Career Path – Cisco
-- Cybersecurity Essentials – Cisco
-- Python Essentials – Cisco
-- Ubuntu Linux Essentials – Mahara-Tech
-- Ethical Hacking – Mahara-Tech
-- Cybersecurity Academy – NTI & EG-CERT
-- Basics of Cryptography – Almentor
-- Java Programming – Udemy
+Completed hands-on cybersecurity rooms covering:
+
+- Web Application Security
+- Network Security
+- Linux & Windows Privilege Escalation
+- Active Directory
+- Enumeration
+- Exploitation
+- Post-Exploitation
+- Authentication Attacks
+- Privilege Escalation
+
+---
+
+## 🚩 Hack The Box
+
+Solved Linux and Windows machines covering different stages of the penetration testing lifecycle:
+
+- Reconnaissance
+- Enumeration
+- Service Enumeration
+- Web Exploitation
+- Initial Access
+- Credential Attacks
+- Linux Privilege Escalation
+- Windows Privilege Escalation
+- Active Directory
+- Post-Exploitation
+
+---
+
+## 🌐 PortSwigger Web Security Academy
+
+Hands-on practice with Web Application Security vulnerabilities, including:
+
+- Cross-Site Scripting (XSS)
+- SQL Injection (SQLi)
+- Cross-Site Request Forgery (CSRF)
+- Authentication Vulnerabilities
+- Access Control Vulnerabilities
+- Path Traversal
+- Command Injection
+- File Upload Vulnerabilities
+- Server-Side Request Forgery (SSRF)
+- DOM-Based Vulnerabilities
+- Race Conditions
+- Business Logic Vulnerabilities
+- API Testing
+- OAuth Authentication
+- JWT Attacks
+- Insecure Deserialization
+- XXE Injection
+- Server-Side Template Injection (SSTI)
+
+---
+
+## 🏅 Certifications & Training
+
+- **OSCP Preparation** — Self-Study, TryHackMe & Hack The Box
+- **eJPT Preparation** — Self-Study, TryHackMe & Hack The Box
+- **Cybersecurity Academy** — NTI
+- **Multivendor Firewalls Solutions** — NTI
+- **CCNA: Switching, Routing & Wireless Essentials** — Cisco
+- **Networking Devices & Initial Configuration** — Cisco
+- **Microsoft Certified: Security, Compliance & Identity Fundamentals** — Microsoft
+- **Sprints x Microsoft Summer Camp — Cybersecurity Program**
 
 ---
 
 ## 📚 Currently Learning
 
-- OSCP Preparation
+- Advanced Web Application Penetration Testing
 - Active Directory Exploitation
-- Advanced Web Exploitation
+- OSCP Training & Labs
 - Red Teaming Fundamentals
-- Linux Privilege Escalation
-- Windows Internal Security
+- Advanced Privilege Escalation
+- Windows Internals
+- Network Pivoting & Tunneling
 
 ---
 
+## 📂 Security Write-ups
 
+I document my practical security research, lab walkthroughs, and penetration testing methodologies.
 
+- 📝 [TryHackMe Write-ups](#)
+- 📝 [Hack The Box Write-ups](#)
+- 📝 [Web Security Notes](#)
+- 📝 [Active Directory Notes](#)
+
+---
 
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/youssef-mohamed-231b09320)
 
 [![Gmail](https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=elmasryyoussef100@gmail.com)
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-⚡-blue?style=for-the-badge)](https://youssef-mohamed100.github.io/)
+
 ---
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Youssef-Mohamed100&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Youssef-Mohamed100&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-Mohamed100&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-Mohamed100&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
