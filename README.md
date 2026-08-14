@@ -225,12 +225,5 @@ I document my practical security research, lab walkthroughs, and penetration tes
 
 [![Gmail](https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=elmasryyoussef100@gmail.com)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-⚡-blue?style=for-the-badge)](https://youssef-mohamed100.github.io/)
 
 ---
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Youssef-Mohamed100&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-Mohamed100&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
