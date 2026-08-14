@@ -10,7 +10,7 @@ My current goal is to build a strong professional career as a **Penetration Test
 
 ---
 
-## 🛡️ Areas of Expertise
+## 🛡️ Security Focus
 
 - Web Application Penetration Testing
 - Network Penetration Testing
