@@ -177,9 +177,6 @@ Hands-on practice with Web Application Security vulnerabilities, including:
 - API Testing
 - OAuth Authentication
 - JWT Attacks
-- Insecure Deserialization
-- XXE Injection
-- Server-Side Template Injection (SSTI)
 
 ---
 
