@@ -125,37 +125,17 @@ Built and maintained an isolated cybersecurity lab for practicing offensive secu
 
 ---
 
-## 🎯 TryHackMe
+## 🚩 Hack The Box & TryHackMe 
+Hands-on practice covering:
 
-Completed hands-on cybersecurity rooms covering:
-
-- Web Application Security
-- Network Security
-- Linux & Windows Privilege Escalation
+- Linux & Windows Machines
 - Active Directory
-- Enumeration
-- Exploitation
-- Post-Exploitation
-- Authentication Attacks
-- Privilege Escalation
-
----
-
-## 🚩 Hack The Box
-
-Solved Linux and Windows machines covering different stages of the penetration testing lifecycle:
-
-- Reconnaissance
-- Enumeration
-- Service Enumeration
+- Network Enumeration
 - Web Exploitation
 - Initial Access
 - Credential Attacks
-- Linux Privilege Escalation
-- Windows Privilege Escalation
-- Active Directory
+- Privilege Escalation
 - Post-Exploitation
-
 ---
 
 ## 🌐 PortSwigger Web Security Academy
