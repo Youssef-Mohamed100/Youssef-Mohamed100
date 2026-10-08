@@ -28,7 +28,11 @@ B. Programs
 
 Student:
 
-‏Discover Programs View available programs Apply to Program Withdraw Application‏ قبل القرار Receive Application Outcome‏ بعد القبول: Pay Enrollment Fee Become Enrolled Access Program Workspace‏
+‏Discover Programs, View available programs, Apply to Program Withdraw Application‏ 
+قبل القرار : 
+Receive Application Outcome‏ 
+بعد القبول :
+ Pay Enrollment Fee Become Enrolled Access Program Workspace‏
 
 ‏لو Payment‏ فشل → Enrollment‏ لا يتفعل.
 
@@ -46,13 +50,13 @@ C. Team
 
 ‏Student‏ يشارك في:
 
-Project Workspace Access Project Workspace View/manage Tasks Work with: Epics Stories Tasks Issues Deadlines Status Simulated Client
+Project Workspace, Access Project Workspace, View/manage Tasks Work with:Epics Stories Tasks Issues Deadlines Status Simulated Client
 
 ‏Student‏ يستقبل:
 
 Scripted Project Scenario Client Requirements
 
-‏والـClient‏ هنا Mentor‏ نفسه في V1‏.
+‏والـ Client‏ هنا Mentor‏ نفسه في V1‏.
 
 Product Backlog
 
@@ -66,7 +70,7 @@ Sprint Planning
 
 ‏Student‏ يشارك في:
 
-Sprint Planning Select Backlog Items Set Sprint Goal Assign Work Record Sprint Duration Sprint Board
+Sprint Planning, Select Backlog Items, Set Sprint Goal, Assign Work, Record Sprint Duration Sprint Board
 
 ‏Student‏ يعمل على Board‏:
 
@@ -80,7 +84,7 @@ Task Dependencies
 
 Student:
 
-‏يحدد Task‏ إنها Blocked‏ يربطها بـTask‏ أخرى يشوف Dependency‏ يستقبل Notifications‏ المتعلقة بها Blocker Reporting‏
+‏يحدد Task‏ إنها Blocked‏ يربطها بـ Task‏ أخرى يشوف Dependency‏ يستقبل Notifications‏ المتعلقة بها Blocker Reporting‏
 
 Student:
 
@@ -100,7 +104,7 @@ Yesterday Today Blockers
 
 ‏يقدر:
 
-Link GitHub Account Work on own Repository Create Branch Push Code Open Pull Request Merge PR
+Link GitHub Account, Work on own Repository, Create Branch Push Code Open Pull Request Merge PR
 
 ‏TechBridge‏ يستقبل GitHub Webhooks‏.
 
@@ -124,7 +128,7 @@ Student:
 
 ‏Sprint Review‏ يشوف Client Feedback‏ يستقبل Comments‏ يستقبل Approval Status New Feature Requests‏ تتحول تلقائياً إلى Backlog Items‏
 
-‏الـClient‏ هنا:
+‏الـ Client‏ هنا:
 
 Mentor acting as Simulated Client
 
@@ -134,7 +138,7 @@ Mentor acting as Simulated Client
 
 What Went Well What Went Wrong What To Improve Action Items
 
-‏والـAction Items‏ تنتقل للـNext Sprint‏ كتذكيرات ظاهرة.
+‏وال ـAction Items‏ تنتقل لل ـNext Sprint‏ كتذكيرات ظاهرة.
 
 ‏هل كل عضو لازم يشارك منفرداً أم Mentor‏ يمثل الفريق؟ TBD‏.
 
