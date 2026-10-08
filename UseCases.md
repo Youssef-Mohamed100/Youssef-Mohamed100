@@ -8,17 +8,19 @@ Student Mentor / Specialist Personal Monitor Admin
 
 GitHub Payment Gateway — TBD Google Meet
 
-‏وفيه System‏ داخل بعض الـFRs‏، لكن ده مش Actor‏ في Use Case Diagram‏؛ ده System Boundary/behavior‏ داخلي.
+‏وفيه System‏ داخل بعض الـ FRs‏، لكن ده مش Actor‏ في Use Case Diagram‏ ده System Boundary/behavior‏ داخلي.
 
 2. Student
 
-‏ده الـPrimary Actor‏ وأكبر Actor‏ في المنصة.
+‏ده الـ Primary Actor‏ وأكبر Actor‏ في المنصة.
 
 A. Account & Profile
 
 ‏Student‏ يقدر:
 
-‏Register Build Profile Select Tech Track: Frontend Backend Cyber Security‏ استخدام المنصة حسب صلاحيات Student‏
+‏Register, Build, Profile, Select, Tech Track: Frontend, Backend, Cyber Security
+
+‏ استخدام المنصة حسب صلاحيات Student‏
 
 ‏بيانات التسجيل التفصيلية لكل Role‏ لسه TBD‏.
 
