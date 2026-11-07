@@ -2,7 +2,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a Cybersecurity student from Egypt with hands-on experience in **Web Application Penetration Testing, Network Security, Active Directory, and Privilege Escalation** through practical labs, CTFs, home lab environments, and security training platforms.
+I'm a Cybersecurity Engineer from Egypt with hands-on experience in **Web Application Penetration Testing, Network Security, Active Directory, and Privilege Escalation** through practical labs, CTFs, home lab environments, and security training platforms.
 
 I focus on developing practical **offensive security and penetration testing** skills by identifying vulnerabilities, understanding attack paths, exploiting misconfigurations, and documenting my findings.
 
