@@ -67,7 +67,7 @@ My current goal is to build a strong professional career as a **Penetration Test
 - Powershell
 - Java
 - HTML
-- PHP
+- C++
 - JavaScript
 - SQL
 
